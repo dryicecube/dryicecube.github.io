@@ -1,24 +1,23 @@
 {
   "basics": {
-    "name": "Albert Einstein",
+    "name": "Ashutosh Kumar Singh",
     "label": "Scientist",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "ashutosh@ee.iitm.ac.in",
+    "url": "https://dryicecube.github.io/",
+    "summary": "I am a PhD scholar at the Department of Electrical Engineering, Indian Institute of Technology Madras. My research interests include quantum optics, quantum computing, and quantum cryptography.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "502, ESB Annex",
+      "postalCode": "Chennai 600036",
+      "city": "Chennai",
+      "countryCode": "India"
+      // "region": "California"
     },
     "profiles": [
       {
         "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "username": "ashutosh_sng",
+        "url": "https://twitter.com/ashutosh_sng"
       }
     ]
   },
