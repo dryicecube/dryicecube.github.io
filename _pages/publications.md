@@ -10,11 +10,16 @@ nav_order: 2
 <!-- _pages/publications.md -->
 
 <!-- Bibsearch Feature -->
-
 {% include bib_search.liquid %}
 
+<!-- Journal Articles -->
+<h2>Journal Articles</h2>
 <div class="publications">
+  {% bibliography --query @article --sort year --order descending %}
+</div>
 
-{% bibliography %}
-
+<!-- Conference Proceedings -->
+<h2>Conference Proceedings</h2>
+<div class="publications">
+  {% bibliography --query @inproceedings --sort year --order descending %}
 </div>
